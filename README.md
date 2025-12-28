@@ -22,13 +22,10 @@
 
 #### I use it often
 
+#### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</div>
-
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-%23844FBA?style=for-the-badge&logo=Terraform&logoColor=white">
 </div>
